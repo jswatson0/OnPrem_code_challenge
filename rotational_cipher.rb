@@ -1,15 +1,15 @@
-class Rotx
+class RotationalCipher
 
   attr_accessor :numeric_message, :numeric_encoded_message, :encoded_message, :decoded_message
 
   ALPHA = ("a".."z").to_a
   ALPHA_HASH = Hash[ALPHA.map.with_index.to_a]
 
-  def encryptor(x, string, encrypt=true)
+  def rotx(x, string, encrypt=true)
     numberfy(string)
     apply_cypher(x)
 
-
+    # encode_message
     # self.encoded_message.join
 
     if encrypt == true
