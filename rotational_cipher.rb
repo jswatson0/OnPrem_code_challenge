@@ -5,7 +5,6 @@ class RotationalCipher
   ALPHA = ("a".."z").to_a
   ALPHA_HASH = Hash[ALPHA.map.with_index.to_a]
 
-  # Creates encoded message when passed integer and string
   def initialize
     @numeric_message = []
     @numeric_encoded_message = []
@@ -14,6 +13,7 @@ class RotationalCipher
     @decoded_message = []
   end
 
+  # Creates encoded message when passed integer and string
   def rotx(x, string, encrypt=true)
     numberfy(string)
 

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7309edbf-6695-4750-b9f1-3ee7fe55dee2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotational_cipher.rb" afterPath="$PROJECT_DIR$/rotational_cipher.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OnPrem_code_challenge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,13 @@
       <file leaf-file-name="rotational_cipher.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rotational_cipher.rb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="1.5661764" vertical-offset="0" max-vertical-offset="1260">
               <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
+=======
+            <state vertical-scroll-proportion="0.33088234" vertical-offset="0" max-vertical-offset="1260">
+              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+>>>>>>> feature complete (basicaly)
               <folding />
             </state>
           </provider>
@@ -354,8 +358,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rotational_cipher.rb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="1.5661764" vertical-offset="0" max-vertical-offset="1260">
           <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
+=======
+        <state vertical-scroll-proportion="0.33088234" vertical-offset="0" max-vertical-offset="1260">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+>>>>>>> feature complete (basicaly)
           <folding />
         </state>
       </provider>
